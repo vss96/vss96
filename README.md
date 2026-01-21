@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <table>
 <tr>
-<td><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vss96&count_private=true&show_icons=true&theme=gotham&hide_border=true&show=reviews,prs_merged&card_width=400" alt="Vikas's github stats" /></a></td>
-<td><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vss96&theme=gotham&hide_border=true&langs_count=10&card_width=400" /></a></td>
+<td valign="top"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vss96&count_private=true&show_icons=true&theme=gotham&hide_border=true&show=reviews,prs_merged&card_width=400" alt="Vikas's github stats" /></a></td>
+<td valign="top"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vss96&theme=gotham&hide_border=true&langs_count=10&card_width=400" /></a></td>
 </tr>
 </table>
