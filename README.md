@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vss96&count_private=true&show_icons=true&theme=gotham&hide_border=true" alt="Vikas's github stats" /></a>
+<a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com/?user=vss96&theme=gotham&hide_border=true" alt="GitHub Streak" /></a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vss96&layout=compact&theme=gotham&hide_border=true" /></a>
