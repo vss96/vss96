@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <table>
 <tr>
-<td><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vss96&count_private=true&show_icons=true&theme=gotham&hide_border=true&show=reviews,prs_merged" alt="Vikas's github stats" /></a></td>
-<td><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vss96&theme=gotham&hide_border=true&langs_count=6" /></a></td>
+<td><a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api?username=vss96&count_private=true&show_icons=true&theme=gotham&hide_border=true&show=reviews,prs_merged" alt="Vikas's github stats" /></a></td>
+<td><a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vss96&theme=gotham&hide_border=true&langs_count=6" /></a></td>
 </tr>
 </table>
